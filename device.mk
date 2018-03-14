@@ -156,10 +156,14 @@ PRODUCT_PACKAGES += \
     libdisplayconfig \
     liboverlay \
     libqdMetaData.system \
+    libnl \
     libvulkan \
     libtinyxml \
     memtrack.sdm660 \
     libgenlock
+
+PRODUCT_BOOT_JARS += \
+    WfdCommon
 
 # DRM
 PRODUCT_PACKAGES += \
