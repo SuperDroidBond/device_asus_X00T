@@ -106,6 +106,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Graphics
 PRODUCT_PROPERTY_OVERRIDES += \
 	vendor.gralloc.enable_fb_ubwc=1 \
+	vendor.gralloc.disable_wb_ubwc=1 \
 	debug.hwui.use_buffer_age=false \
 	debug.sf.enable_hwc_vds=1 \
 	debug.sf.early_phase_offset_ns=5000000 \
