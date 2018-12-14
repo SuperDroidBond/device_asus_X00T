@@ -179,6 +179,7 @@ lib/libcamera2ndk.so
 lib/libcamera_client.so
 lib/libcamera_metadata.so
 lib/libcameraservice.so
+lib/libmegaface_megalive.so
 lib64/android.hardware.camera.common@1.0.so
 lib64/android.hardware.camera.device@1.0.so
 lib64/android.hardware.camera.device@3.2.so
@@ -232,6 +233,13 @@ lib64/libts_detected_face_jni.so
 lib64/libts_face_beautify_hal.so
 lib64/libts_face_beautify_jni.so
 lib64/libubifocus.so
+lib64/libarcsoft_night_shot.so
+lib64/libjni_hq_night_shot.so
+lib64/libjni_imageutil.so
+lib64/libjni_snapcammosaic.so
+lib64/libjni_snapcamtinyplanet.so
+lib64/libmegface_meglive.so
+lib64/libmpbase.so
 vendor/lib/hw/camera.sdm660.so
 vendor/lib/libarcsoft_arc3dnr_intf.so
 vendor/lib/libarcsoft_arcshdr_intf.so
